@@ -12,12 +12,12 @@ Solutions to the various *leetcode* coding problems (algorithms &amp; data struc
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./python/easy/symmetric_btree.py) | Easy |
 [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./python/easy/alien_dictionary.py) | Easy |
 [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | [Python](./python/easy/longest_continous_increasing_sequence.py) | Easy |
-[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/easy/merge_btrees.py) | Easy |
+[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [CPP](./python/easy/merge_btrees.py) | Easy |
 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./python/easy/first_unique_char.py) | Easy |
-[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./python/easy/longest_consecutive_ones_rep.py) | Easy |
-[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/easy/climbing_stairs.py) | Easy |
-[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/easy/invert_btree.py) | Easy |
-[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/easy/fibonacci.py) | Easy |
+[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [CPP](./python/easy/longest_consecutive_ones_rep.py) | Easy |
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [CPP](./python/easy/climbing_stairs.py) | Easy |
+[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [CPP](./python/easy/invert_btree.py) | Easy |
+[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [CPP](./python/easy/fibonacci.py) | Easy |
 [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](./python/easy/toeplitz.py) | Easy |
 [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python](./python/medium/path_sum_ii.py) | Medium |
 [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/medium/lru_cache.py) | Medium |
